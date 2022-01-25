@@ -99,6 +99,7 @@
 .main span{
     margin: 0 0 15px 0;
     font-weight: bold;
+    font-size: 15px;
 }
 
 @media screen and (max-width: 620px){
@@ -112,6 +113,10 @@
 
     .main h2{
         font-size: 25px;
+    }
+    
+    .main span{
+        font-size: 12px;
     }
 
     .main{
